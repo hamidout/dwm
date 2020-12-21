@@ -2,7 +2,7 @@
 
 ## Patches and features
 
-- Clickable statusbar with my build of [dwmblocks](https://github.com/lukesmithxyz/dwmblocks).
+- Clickable statusbar with my build of [dwmblocks](https://github.com/hamidout/dwmblocks).
 - Reads xresources colors/variables (i.e. works with `pywal`, etc.).
 - scratchpad: Accessible with mod+shift+enter.
 - New layouts: bstack, fibonacci, deck, centered master and more. All bound to keys `super+(shift+)t/y/u/i`.
